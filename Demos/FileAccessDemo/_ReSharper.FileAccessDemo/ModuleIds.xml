@@ -1,0 +1,5 @@
+<Modules>
+  <Module PersistentId="6FB3D7D9-7A55-4A97-8481-4BAD212C0EA2" ModuleId="FileAccessDemo.UnitTests" />
+  <Module PersistentId="9B38D939-24CF-4AE3-BCF1-D9576EEF3A1B" ModuleId="FileAccessDemo" />
+  <Module PersistentId="99D8C803-21D1-492F-B5A2-592A3154D580" ModuleId="UnitTestProject1" />
+</Modules>

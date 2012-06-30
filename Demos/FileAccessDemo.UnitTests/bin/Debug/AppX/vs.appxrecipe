@@ -1,0 +1,146 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>RAJ-PCWIN8</Machine>
+    <WindowsUser>Raj</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>FFA0181140E33DB8276FD4B55E24FAF5AD989607CC930324D590C29ADA9C5890</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>c482194e-129e-4c5f-bf8b-241477c9190d_1.0.0.0_neutral__4x8h9nf4nrdcw</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>c482194e-129e-4c5f-bf8b-241477c9190d_4x8h9nf4nrdcw!vstest.executionengine.App</RegisteredUserModeAppID>
+    <RegisteredPackageID>c482194e-129e-4c5f-bf8b-241477c9190d</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Raj</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Git\Repositories\WindowsMetroAppDemo\Demos\FileAccessDemo.UnitTests\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-06-27T21:09:28.313</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Git\Repositories\WindowsMetroAppDemo\Demos\FileAccessDemo.UnitTests\bin\Debug\FileAccessDemo.UnitTests.dll">
+      <PackagePath>FileAccessDemo.UnitTests.dll</PackagePath>
+      <Modified>2012-06-27T21:16:36.082</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Git\Repositories\WindowsMetroAppDemo\Demos\FileAccessDemo.UnitTests\bin\Debug\FileAccessDemo.UnitTests.pdb">
+      <PackagePath>FileAccessDemo.UnitTests.pdb</PackagePath>
+      <Modified>2012-06-27T21:16:36.054</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Git\Repositories\WindowsMetroAppDemo\Demos\FileAccessDemo\bin\Debug\FileAccessDemo.pdb">
+      <PackagePath>FileAccessDemo.pdb</PackagePath>
+      <Modified>2012-06-27T21:13:50.399</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files (x86)\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\MSTestFramework\11.0\References\CommonConfiguration\neutral\Microsoft.VisualStudio.TestPlatform.UnitTestFramework.dll">
+      <PackagePath>Microsoft.VisualStudio.TestPlatform.UnitTestFramework.dll</PackagePath>
+      <Modified>2012-05-22T14:46:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Git\Repositories\WindowsMetroAppDemo\Demos\FileAccessDemo.UnitTests\bin\Baking\MoqRT.Baked.dll">
+      <PackagePath>MoqRT.Baked.dll</PackagePath>
+      <Modified>2012-06-27T21:16:39.770</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Git\Repositories\MoqRT\MoqRT.MetroStyle\bin\Debug\MoqRT.MetroStyle.dll">
+      <PackagePath>MoqRT.MetroStyle.dll</PackagePath>
+      <Modified>2012-06-21T11:07:43.701</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Git\Repositories\WindowsMetroAppDemo\Demos\FileAccessDemo\bin\Debug\FileAccessDemo.exe">
+      <PackagePath>FileAccessDemo.exe</PackagePath>
+      <Modified>2012-06-27T21:13:50.429</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Git\Repositories\MoqRT\MoqRT.MetroStyle\bin\Debug\MoqRT.MetroStyle.pdb">
+      <PackagePath>MoqRT.MetroStyle.pdb</PackagePath>
+      <Modified>2012-06-21T11:07:43.659</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files (x86)\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\TestPlatform\11.0\Redist\CommonConfiguration\neutral\Microsoft.VisualStudio.TestPlatform.Core.dll">
+      <PackagePath>Microsoft.VisualStudio.TestPlatform.Core.dll</PackagePath>
+      <Modified>2012-05-22T14:17:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files (x86)\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\MSTestFramework\11.0\Redist\CommonConfiguration\neutral\Microsoft.VisualStudio.TestPlatform.Extensions.MSAppContainerAdapter.dll">
+      <PackagePath>Microsoft.VisualStudio.TestPlatform.Extensions.MSAppContainerAdapter.dll</PackagePath>
+      <Modified>2012-05-22T14:46:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files (x86)\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\TestPlatform\11.0\Redist\CommonConfiguration\neutral\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll">
+      <PackagePath>Microsoft.VisualStudio.TestPlatform.ObjectModel.dll</PackagePath>
+      <Modified>2012-05-22T14:17:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files (x86)\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\TestPlatform\11.0\Redist\CommonConfiguration\neutral\Microsoft.VisualStudio.TestPlatform.TestExecutor.Core.dll">
+      <PackagePath>Microsoft.VisualStudio.TestPlatform.TestExecutor.Core.dll</PackagePath>
+      <Modified>2012-05-22T14:17:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files (x86)\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\TestPlatform\11.0\Redist\CommonConfiguration\neutral\Microsoft.VisualStudio.TestPlatform.Utilities.dll">
+      <PackagePath>Microsoft.VisualStudio.TestPlatform.Utilities.dll</PackagePath>
+      <Modified>2012-05-22T14:17:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files (x86)\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\TestPlatform\11.0\Redist\CommonConfiguration\neutral\vstest.executionengine.appcontainer.exe">
+      <PackagePath>vstest.executionengine.appcontainer.exe</PackagePath>
+      <Modified>2012-05-22T14:17:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files (x86)\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\TestPlatform\11.0\Redist\CommonConfiguration\neutral\vstest.executionengine.appcontainer.x86.exe">
+      <PackagePath>vstest.executionengine.appcontainer.x86.exe</PackagePath>
+      <Modified>2012-05-22T14:17:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Git\Repositories\WindowsMetroAppDemo\Demos\FileAccessDemo.UnitTests\Images\UnitTestLogo.png">
+      <PackagePath>Images\UnitTestLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-01-28T05:21:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Git\Repositories\WindowsMetroAppDemo\Demos\FileAccessDemo.UnitTests\Images\UnitTestSmallLogo.png">
+      <PackagePath>Images\UnitTestSmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-01-28T05:21:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Git\Repositories\WindowsMetroAppDemo\Demos\FileAccessDemo.UnitTests\Images\UnitTestSplashScreen.png">
+      <PackagePath>Images\UnitTestSplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-01-28T05:21:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Git\Repositories\WindowsMetroAppDemo\Demos\FileAccessDemo.UnitTests\Images\UnitTestStoreLogo.png">
+      <PackagePath>Images\UnitTestStoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-01-28T05:21:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Git\Repositories\WindowsMetroAppDemo\Demos\FileAccessDemo\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <Modified>2012-03-20T11:54:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Git\Repositories\WindowsMetroAppDemo\Demos\FileAccessDemo\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <Modified>2012-03-20T11:54:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Git\Repositories\WindowsMetroAppDemo\Demos\FileAccessDemo\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <Modified>2012-03-20T11:54:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Git\Repositories\WindowsMetroAppDemo\Demos\FileAccessDemo\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <Modified>2012-03-20T11:54:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Git\Repositories\WindowsMetroAppDemo\Demos\FileAccessDemo.UnitTests\sqlite3.dll">
+      <PackagePath>sqlite3.dll</PackagePath>
+      <Modified>2012-06-21T11:27:36.501</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Git\Repositories\WindowsMetroAppDemo\Demos\FileAccessDemo\Assets\folders.jpg">
+      <PackagePath>Assets\folders.jpg</PackagePath>
+      <Modified>2012-06-22T20:02:06.780</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Git\Repositories\WindowsMetroAppDemo\Demos\FileAccessDemo\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-04-24T14:03:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Git\Repositories\WindowsMetroAppDemo\Demos\FileAccessDemo\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+      <Modified>2012-06-24T17:28:04.961</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Git\Repositories\WindowsMetroAppDemo\Demos\FileAccessDemo\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2012-06-24T11:46:31.432</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Git\Repositories\WindowsMetroAppDemo\Demos\FileAccessDemo.UnitTests\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2012-06-27T20:46:28.016</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

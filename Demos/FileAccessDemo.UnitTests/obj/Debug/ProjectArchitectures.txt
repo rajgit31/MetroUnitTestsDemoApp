@@ -1,0 +1,2 @@
+C:\Git\Repositories\WindowsMetroAppDemo\Demos\FileAccessDemo.UnitTests\FileAccessDemo.UnitTests.csproj;neutral
+C:\Git\Repositories\WindowsMetroAppDemo\Demos\FileAccessDemo\FileAccessDemo.csproj;neutral

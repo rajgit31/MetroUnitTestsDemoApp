@@ -1,0 +1,145 @@
+C:\Users\Raj\Desktop\FileAccessDemo\FileAccessDemo.UnitTests\obj\Debug\FileAccessDemo.UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\Raj\Desktop\FileAccessDemo\FileAccessDemo.UnitTests\bin\Debug\Images\UnitTestLogo.png
+C:\Users\Raj\Desktop\FileAccessDemo\FileAccessDemo.UnitTests\bin\Debug\Images\UnitTestSmallLogo.png
+C:\Users\Raj\Desktop\FileAccessDemo\FileAccessDemo.UnitTests\bin\Debug\Images\UnitTestSplashScreen.png
+C:\Users\Raj\Desktop\FileAccessDemo\FileAccessDemo.UnitTests\bin\Debug\Images\UnitTestStoreLogo.png
+C:\Users\Raj\Desktop\FileAccessDemo\FileAccessDemo.UnitTests\bin\Debug\FileAccessDemo.UnitTests.dll
+C:\Users\Raj\Desktop\FileAccessDemo\FileAccessDemo.UnitTests\bin\Debug\FileAccessDemo.UnitTests.pdb
+C:\Users\Raj\Desktop\FileAccessDemo\FileAccessDemo.UnitTests\bin\Debug\resources.pri
+C:\Users\Raj\Desktop\FileAccessDemo\FileAccessDemo.UnitTests\bin\Debug\AppxManifest.xml
+C:\Users\Raj\Desktop\FileAccessDemo\FileAccessDemo.UnitTests\bin\Debug\FileAccessDemo.UnitTests.build.appxrecipe
+C:\Users\Raj\Desktop\FileAccessDemo\FileAccessDemo.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.UnitTestFramework.dll
+C:\Users\Raj\Desktop\FileAccessDemo\FileAccessDemo.UnitTests\bin\Debug\FileAccessDemo.exe
+C:\Users\Raj\Desktop\FileAccessDemo\FileAccessDemo.UnitTests\bin\Debug\FileAccessDemo.pdb
+C:\Users\Raj\Desktop\FileAccessDemo\FileAccessDemo.UnitTests\obj\Debug\FileAccessDemo.UnitTests.dll
+C:\Users\Raj\Desktop\FileAccessDemo\FileAccessDemo.UnitTests\obj\Debug\FileAccessDemo.UnitTests.pdb
+C:\Users\Raj\Desktop\FileAccessDemo\FileAccessDemo.UnitTests\obj\Debug\Microsoft.VisualStudio.TestPlatform.UnitTestFramework\en-US\Microsoft.VisualStudio.TestPlatform.UnitTestFramework.FrameworkMessages.resw
+C:\Users\Raj\Desktop\FileAccessDemo\FileAccessDemo.UnitTests\obj\Debug\Microsoft.VisualStudio.TestPlatform.Core\en-US\Microsoft.VisualStudio.TestPlatform.Core.Resources.resw
+C:\Users\Raj\Desktop\FileAccessDemo\FileAccessDemo.UnitTests\obj\Debug\Microsoft.VisualStudio.TestPlatform.Extensions.MSAppContainerAdapter\en-US\Microsoft.VisualStudio.TestPlatform.Extensions.MSAppContainerAdapter.Framework.Messages.resw
+C:\Users\Raj\Desktop\FileAccessDemo\FileAccessDemo.UnitTests\obj\Debug\Microsoft.VisualStudio.TestPlatform.Extensions.MSAppContainerAdapter\en-US\Microsoft.VisualStudio.TestPlatform.Extensions.MSAppContainerAdapter.Resources.resw
+C:\Users\Raj\Desktop\FileAccessDemo\FileAccessDemo.UnitTests\obj\Debug\Microsoft.VisualStudio.TestPlatform.ObjectModel\en-US\Microsoft.VisualStudio.TestPlatform.ObjectModel.CommonResources.resw
+C:\Users\Raj\Desktop\FileAccessDemo\FileAccessDemo.UnitTests\obj\Debug\Microsoft.VisualStudio.TestPlatform.ObjectModel\en-US\Microsoft.VisualStudio.TestPlatform.ObjectModel.EqtMessages.resw
+C:\Users\Raj\Desktop\FileAccessDemo\FileAccessDemo.UnitTests\obj\Debug\Microsoft.VisualStudio.TestPlatform.ObjectModel\en-US\Microsoft.VisualStudio.TestPlatform.ObjectModel.Resources.resw
+C:\Users\Raj\Desktop\FileAccessDemo\FileAccessDemo.UnitTests\obj\Debug\Microsoft.VisualStudio.TestPlatform.ObjectModel\en-US\Microsoft.VisualStudio.TestPlatform.ObjectModel.ValidateArgStrings.resw
+C:\Users\Raj\Desktop\FileAccessDemo\FileAccessDemo.UnitTests\obj\Debug\Microsoft.VisualStudio.TestPlatform.TestExecutor.Core\en-US\Microsoft.VisualStudio.TestPlatform.TestExecutor.Resources.resw
+C:\Users\Raj\Desktop\FileAccessDemo\FileAccessDemo.UnitTests\obj\Debug\Microsoft.VisualStudio.TestPlatform.Utilities\en-US\Microsoft.VisualStudio.TestPlatform.Utilities.Resources.resw
+C:\Users\Raj\Desktop\FileAccessDemo\FileAccessDemo.UnitTests\obj\Debug\FileAccessDemo.UnitTests.csproj.GenerateResource.Cache
+C:\Users\Raj\Desktop\FileAccessDemo\FileAccessDemo.UnitTests\obj\Debug\Microsoft.VisualStudio.TestPlatform.UnitTestFramework.pri
+C:\Users\Raj\Desktop\FileAccessDemo\FileAccessDemo.UnitTests\obj\Debug\Microsoft.VisualStudio.TestPlatform.UnitTestFramework\LanguageQualifiers.txt
+C:\Users\Raj\Desktop\FileAccessDemo\FileAccessDemo.UnitTests\obj\Debug\Microsoft.VisualStudio.TestPlatform.Core.pri
+C:\Users\Raj\Desktop\FileAccessDemo\FileAccessDemo.UnitTests\obj\Debug\Microsoft.VisualStudio.TestPlatform.Core\LanguageQualifiers.txt
+C:\Users\Raj\Desktop\FileAccessDemo\FileAccessDemo.UnitTests\obj\Debug\Microsoft.VisualStudio.TestPlatform.Extensions.MSAppContainerAdapter.pri
+C:\Users\Raj\Desktop\FileAccessDemo\FileAccessDemo.UnitTests\obj\Debug\Microsoft.VisualStudio.TestPlatform.Extensions.MSAppContainerAdapter\LanguageQualifiers.txt
+C:\Users\Raj\Desktop\FileAccessDemo\FileAccessDemo.UnitTests\obj\Debug\Microsoft.VisualStudio.TestPlatform.ObjectModel.pri
+C:\Users\Raj\Desktop\FileAccessDemo\FileAccessDemo.UnitTests\obj\Debug\Microsoft.VisualStudio.TestPlatform.ObjectModel\LanguageQualifiers.txt
+C:\Users\Raj\Desktop\FileAccessDemo\FileAccessDemo.UnitTests\obj\Debug\Microsoft.VisualStudio.TestPlatform.TestExecutor.Core.pri
+C:\Users\Raj\Desktop\FileAccessDemo\FileAccessDemo.UnitTests\obj\Debug\Microsoft.VisualStudio.TestPlatform.TestExecutor.Core\LanguageQualifiers.txt
+C:\Users\Raj\Desktop\FileAccessDemo\FileAccessDemo.UnitTests\obj\Debug\Microsoft.VisualStudio.TestPlatform.Utilities.pri
+C:\Users\Raj\Desktop\FileAccessDemo\FileAccessDemo.UnitTests\obj\Debug\Microsoft.VisualStudio.TestPlatform.Utilities\LanguageQualifiers.txt
+C:\Users\Raj\Desktop\FileAccessDemo\FileAccessDemo.UnitTests\obj\Debug\priconfig.xml
+C:\Users\Raj\Desktop\FileAccessDemo\FileAccessDemo.UnitTests\obj\Debug\layout.resfiles
+C:\Users\Raj\Desktop\FileAccessDemo\FileAccessDemo.UnitTests\obj\Debug\resources.resfiles
+C:\Users\Raj\Desktop\FileAccessDemo\FileAccessDemo.UnitTests\obj\Debug\pri.resfiles
+C:\Users\Raj\Desktop\FileAccessDemo\FileAccessDemo.UnitTests\obj\Debug\LanguageQualifiers.txt
+C:\Users\Raj\Desktop\FileAccessDemo\FileAccessDemo.UnitTests\obj\Debug\ProjectArchitectures.txt
+C:\Users\Raj\Desktop\Unit Testing Metro Style Apps\Demos\FileAccessDemo.UnitTests\bin\Debug\Images\UnitTestLogo.png
+C:\Users\Raj\Desktop\Unit Testing Metro Style Apps\Demos\FileAccessDemo.UnitTests\bin\Debug\Images\UnitTestSmallLogo.png
+C:\Users\Raj\Desktop\Unit Testing Metro Style Apps\Demos\FileAccessDemo.UnitTests\bin\Debug\Images\UnitTestSplashScreen.png
+C:\Users\Raj\Desktop\Unit Testing Metro Style Apps\Demos\FileAccessDemo.UnitTests\bin\Debug\Images\UnitTestStoreLogo.png
+C:\Users\Raj\Desktop\Unit Testing Metro Style Apps\Demos\FileAccessDemo.UnitTests\bin\Debug\FileAccessDemo.UnitTests.dll
+C:\Users\Raj\Desktop\Unit Testing Metro Style Apps\Demos\FileAccessDemo.UnitTests\bin\Debug\FileAccessDemo.UnitTests.pdb
+C:\Users\Raj\Desktop\Unit Testing Metro Style Apps\Demos\FileAccessDemo.UnitTests\bin\Debug\resources.pri
+C:\Users\Raj\Desktop\Unit Testing Metro Style Apps\Demos\FileAccessDemo.UnitTests\bin\Debug\AppxManifest.xml
+C:\Users\Raj\Desktop\Unit Testing Metro Style Apps\Demos\FileAccessDemo.UnitTests\bin\Debug\FileAccessDemo.UnitTests.build.appxrecipe
+C:\Users\Raj\Desktop\Unit Testing Metro Style Apps\Demos\FileAccessDemo.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.UnitTestFramework.dll
+C:\Users\Raj\Desktop\Unit Testing Metro Style Apps\Demos\FileAccessDemo.UnitTests\bin\Debug\FileAccessDemo.exe
+C:\Users\Raj\Desktop\Unit Testing Metro Style Apps\Demos\FileAccessDemo.UnitTests\bin\Debug\FileAccessDemo.pdb
+C:\Users\Raj\Desktop\Unit Testing Metro Style Apps\Demos\FileAccessDemo.UnitTests\obj\Debug\FileAccessDemo.UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\Raj\Desktop\Unit Testing Metro Style Apps\Demos\FileAccessDemo.UnitTests\obj\Debug\FileAccessDemo.UnitTests.dll
+C:\Users\Raj\Desktop\Unit Testing Metro Style Apps\Demos\FileAccessDemo.UnitTests\obj\Debug\FileAccessDemo.UnitTests.pdb
+C:\Users\Raj\Desktop\Unit Testing Metro Style Apps\Demos\FileAccessDemo.UnitTests\obj\Debug\Microsoft.VisualStudio.TestPlatform.UnitTestFramework\en-US\Microsoft.VisualStudio.TestPlatform.UnitTestFramework.FrameworkMessages.resw
+C:\Users\Raj\Desktop\Unit Testing Metro Style Apps\Demos\FileAccessDemo.UnitTests\obj\Debug\Microsoft.VisualStudio.TestPlatform.Core\en-US\Microsoft.VisualStudio.TestPlatform.Core.Resources.resw
+C:\Users\Raj\Desktop\Unit Testing Metro Style Apps\Demos\FileAccessDemo.UnitTests\obj\Debug\en-US\Microsoft.VisualStudio.TestPlatform.Extensions.MSAppContainerAdapter.Framework.Messages.resw
+C:\Users\Raj\Desktop\Unit Testing Metro Style Apps\Demos\FileAccessDemo.UnitTests\obj\Debug\Microsoft.VisualStudio.TestPlatform.Extensions.MSAppContainerAdapter\en-US\Microsoft.VisualStudio.TestPlatform.Extensions.MSAppContainerAdapter.Resources.resw
+C:\Users\Raj\Desktop\Unit Testing Metro Style Apps\Demos\FileAccessDemo.UnitTests\obj\Debug\Microsoft.VisualStudio.TestPlatform.ObjectModel\en-US\Microsoft.VisualStudio.TestPlatform.ObjectModel.CommonResources.resw
+C:\Users\Raj\Desktop\Unit Testing Metro Style Apps\Demos\FileAccessDemo.UnitTests\obj\Debug\Microsoft.VisualStudio.TestPlatform.ObjectModel\en-US\Microsoft.VisualStudio.TestPlatform.ObjectModel.EqtMessages.resw
+C:\Users\Raj\Desktop\Unit Testing Metro Style Apps\Demos\FileAccessDemo.UnitTests\obj\Debug\Microsoft.VisualStudio.TestPlatform.ObjectModel\en-US\Microsoft.VisualStudio.TestPlatform.ObjectModel.Resources.resw
+C:\Users\Raj\Desktop\Unit Testing Metro Style Apps\Demos\FileAccessDemo.UnitTests\obj\Debug\Microsoft.VisualStudio.TestPlatform.ObjectModel\en-US\Microsoft.VisualStudio.TestPlatform.ObjectModel.ValidateArgStrings.resw
+C:\Users\Raj\Desktop\Unit Testing Metro Style Apps\Demos\FileAccessDemo.UnitTests\obj\Debug\Microsoft.VisualStudio.TestPlatform.TestExecutor.Core\en-US\Microsoft.VisualStudio.TestPlatform.TestExecutor.Resources.resw
+C:\Users\Raj\Desktop\Unit Testing Metro Style Apps\Demos\FileAccessDemo.UnitTests\obj\Debug\Microsoft.VisualStudio.TestPlatform.Utilities\en-US\Microsoft.VisualStudio.TestPlatform.Utilities.Resources.resw
+C:\Users\Raj\Desktop\Unit Testing Metro Style Apps\Demos\FileAccessDemo.UnitTests\obj\Debug\FileAccessDemo.UnitTests.csproj.GenerateResource.Cache
+C:\Users\Raj\Desktop\Unit Testing Metro Style Apps\Demos\FileAccessDemo.UnitTests\obj\Debug\Microsoft.VisualStudio.TestPlatform.UnitTestFramework.pri
+C:\Users\Raj\Desktop\Unit Testing Metro Style Apps\Demos\FileAccessDemo.UnitTests\obj\Debug\Microsoft.VisualStudio.TestPlatform.UnitTestFramework\LanguageQualifiers.txt
+C:\Users\Raj\Desktop\Unit Testing Metro Style Apps\Demos\FileAccessDemo.UnitTests\obj\Debug\Microsoft.VisualStudio.TestPlatform.Core.pri
+C:\Users\Raj\Desktop\Unit Testing Metro Style Apps\Demos\FileAccessDemo.UnitTests\obj\Debug\Microsoft.VisualStudio.TestPlatform.Core\LanguageQualifiers.txt
+C:\Users\Raj\Desktop\Unit Testing Metro Style Apps\Demos\FileAccessDemo.UnitTests\obj\Debug\Microsoft.VisualStudio.TestPlatform.Extensions.MSAppContainerAdapter.pri
+C:\Users\Raj\Desktop\Unit Testing Metro Style Apps\Demos\FileAccessDemo.UnitTests\obj\Debug\Microsoft.VisualStudio.TestPlatform.Extensions.MSAppContainerAdapter\LanguageQualifiers.txt
+C:\Users\Raj\Desktop\Unit Testing Metro Style Apps\Demos\FileAccessDemo.UnitTests\obj\Debug\Microsoft.VisualStudio.TestPlatform.ObjectModel.pri
+C:\Users\Raj\Desktop\Unit Testing Metro Style Apps\Demos\FileAccessDemo.UnitTests\obj\Debug\Microsoft.VisualStudio.TestPlatform.ObjectModel\LanguageQualifiers.txt
+C:\Users\Raj\Desktop\Unit Testing Metro Style Apps\Demos\FileAccessDemo.UnitTests\obj\Debug\Microsoft.VisualStudio.TestPlatform.TestExecutor.Core.pri
+C:\Users\Raj\Desktop\Unit Testing Metro Style Apps\Demos\FileAccessDemo.UnitTests\obj\Debug\Microsoft.VisualStudio.TestPlatform.TestExecutor.Core\LanguageQualifiers.txt
+C:\Users\Raj\Desktop\Unit Testing Metro Style Apps\Demos\FileAccessDemo.UnitTests\obj\Debug\Microsoft.VisualStudio.TestPlatform.Utilities.pri
+C:\Users\Raj\Desktop\Unit Testing Metro Style Apps\Demos\FileAccessDemo.UnitTests\obj\Debug\Microsoft.VisualStudio.TestPlatform.Utilities\LanguageQualifiers.txt
+C:\Users\Raj\Desktop\Unit Testing Metro Style Apps\Demos\FileAccessDemo.UnitTests\obj\Debug\priconfig.xml.intermediate
+C:\Users\Raj\Desktop\Unit Testing Metro Style Apps\Demos\FileAccessDemo.UnitTests\obj\Debug\layout.resfiles.intermediate
+C:\Users\Raj\Desktop\Unit Testing Metro Style Apps\Demos\FileAccessDemo.UnitTests\obj\Debug\resources.resfiles.intermediate
+C:\Users\Raj\Desktop\Unit Testing Metro Style Apps\Demos\FileAccessDemo.UnitTests\obj\Debug\pri.resfiles.intermediate
+C:\Users\Raj\Desktop\Unit Testing Metro Style Apps\Demos\FileAccessDemo.UnitTests\obj\Debug\priconfig.xml
+C:\Users\Raj\Desktop\Unit Testing Metro Style Apps\Demos\FileAccessDemo.UnitTests\obj\Debug\layout.resfiles
+C:\Users\Raj\Desktop\Unit Testing Metro Style Apps\Demos\FileAccessDemo.UnitTests\obj\Debug\resources.resfiles
+C:\Users\Raj\Desktop\Unit Testing Metro Style Apps\Demos\FileAccessDemo.UnitTests\obj\Debug\pri.resfiles
+C:\Users\Raj\Desktop\Unit Testing Metro Style Apps\Demos\FileAccessDemo.UnitTests\obj\Debug\LanguageQualifiers.txt
+C:\Users\Raj\Desktop\Unit Testing Metro Style Apps\Demos\FileAccessDemo.UnitTests\obj\Debug\ProjectArchitectures.txt
+C:\Git\Repositories\WindowsMetroAppDemo\Demos\FileAccessDemo.UnitTests\obj\Debug\FileAccessDemo.UnitTests.csprojResolveAssemblyReference.cache
+C:\Git\Repositories\WindowsMetroAppDemo\Demos\FileAccessDemo.UnitTests\bin\Debug\Images\UnitTestLogo.png
+C:\Git\Repositories\WindowsMetroAppDemo\Demos\FileAccessDemo.UnitTests\bin\Debug\Images\UnitTestSmallLogo.png
+C:\Git\Repositories\WindowsMetroAppDemo\Demos\FileAccessDemo.UnitTests\bin\Debug\Images\UnitTestSplashScreen.png
+C:\Git\Repositories\WindowsMetroAppDemo\Demos\FileAccessDemo.UnitTests\bin\Debug\Images\UnitTestStoreLogo.png
+C:\Git\Repositories\WindowsMetroAppDemo\Demos\FileAccessDemo.UnitTests\bin\Debug\FileAccessDemo.UnitTests.dll
+C:\Git\Repositories\WindowsMetroAppDemo\Demos\FileAccessDemo.UnitTests\bin\Debug\FileAccessDemo.UnitTests.pdb
+C:\Git\Repositories\WindowsMetroAppDemo\Demos\FileAccessDemo.UnitTests\bin\Debug\resources.pri
+C:\Git\Repositories\WindowsMetroAppDemo\Demos\FileAccessDemo.UnitTests\bin\Debug\AppxManifest.xml
+C:\Git\Repositories\WindowsMetroAppDemo\Demos\FileAccessDemo.UnitTests\bin\Debug\FileAccessDemo.UnitTests.build.appxrecipe
+C:\Git\Repositories\WindowsMetroAppDemo\Demos\FileAccessDemo.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.UnitTestFramework.dll
+C:\Git\Repositories\WindowsMetroAppDemo\Demos\FileAccessDemo.UnitTests\bin\Debug\FileAccessDemo.exe
+C:\Git\Repositories\WindowsMetroAppDemo\Demos\FileAccessDemo.UnitTests\bin\Debug\MoqRT.Baked.dll
+C:\Git\Repositories\WindowsMetroAppDemo\Demos\FileAccessDemo.UnitTests\bin\Debug\MoqRT.MetroStyle.dll
+C:\Git\Repositories\WindowsMetroAppDemo\Demos\FileAccessDemo.UnitTests\bin\Debug\FileAccessDemo.pdb
+C:\Git\Repositories\WindowsMetroAppDemo\Demos\FileAccessDemo.UnitTests\bin\Debug\MoqRT.MetroStyle.pdb
+C:\Git\Repositories\WindowsMetroAppDemo\Demos\FileAccessDemo.UnitTests\bin\Debug\MoqRT.MetroStyle.pri
+C:\Git\Repositories\WindowsMetroAppDemo\Demos\FileAccessDemo.UnitTests\obj\Debug\FileAccessDemo.UnitTests.dll
+C:\Git\Repositories\WindowsMetroAppDemo\Demos\FileAccessDemo.UnitTests\obj\Debug\FileAccessDemo.UnitTests.pdb
+C:\Git\Repositories\WindowsMetroAppDemo\Demos\FileAccessDemo.UnitTests\obj\Debug\Microsoft.VisualStudio.TestPlatform.UnitTestFramework\en-US\Microsoft.VisualStudio.TestPlatform.UnitTestFramework.FrameworkMessages.resw
+C:\Git\Repositories\WindowsMetroAppDemo\Demos\FileAccessDemo.UnitTests\obj\Debug\Microsoft.VisualStudio.TestPlatform.Core\en-US\Microsoft.VisualStudio.TestPlatform.Core.Resources.resw
+C:\Git\Repositories\WindowsMetroAppDemo\Demos\FileAccessDemo.UnitTests\obj\Debug\Microsoft.VisualStudio.TestPlatform.Extensions.MSAppContainerAdapter\en-US\Microsoft.VisualStudio.TestPlatform.Extensions.MSAppContainerAdapter.Framework.Messages.resw
+C:\Git\Repositories\WindowsMetroAppDemo\Demos\FileAccessDemo.UnitTests\obj\Debug\Microsoft.VisualStudio.TestPlatform.Extensions.MSAppContainerAdapter\en-US\Microsoft.VisualStudio.TestPlatform.Extensions.MSAppContainerAdapter.Resources.resw
+C:\Git\Repositories\WindowsMetroAppDemo\Demos\FileAccessDemo.UnitTests\obj\Debug\Microsoft.VisualStudio.TestPlatform.ObjectModel\en-US\Microsoft.VisualStudio.TestPlatform.ObjectModel.CommonResources.resw
+C:\Git\Repositories\WindowsMetroAppDemo\Demos\FileAccessDemo.UnitTests\obj\Debug\Microsoft.VisualStudio.TestPlatform.ObjectModel\en-US\Microsoft.VisualStudio.TestPlatform.ObjectModel.EqtMessages.resw
+C:\Git\Repositories\WindowsMetroAppDemo\Demos\FileAccessDemo.UnitTests\obj\Debug\Microsoft.VisualStudio.TestPlatform.ObjectModel\en-US\Microsoft.VisualStudio.TestPlatform.ObjectModel.Resources.resw
+C:\Git\Repositories\WindowsMetroAppDemo\Demos\FileAccessDemo.UnitTests\obj\Debug\Microsoft.VisualStudio.TestPlatform.ObjectModel\en-US\Microsoft.VisualStudio.TestPlatform.ObjectModel.ValidateArgStrings.resw
+C:\Git\Repositories\WindowsMetroAppDemo\Demos\FileAccessDemo.UnitTests\obj\Debug\Microsoft.VisualStudio.TestPlatform.TestExecutor.Core\en-US\Microsoft.VisualStudio.TestPlatform.TestExecutor.Resources.resw
+C:\Git\Repositories\WindowsMetroAppDemo\Demos\FileAccessDemo.UnitTests\obj\Debug\Microsoft.VisualStudio.TestPlatform.Utilities\en-US\Microsoft.VisualStudio.TestPlatform.Utilities.Resources.resw
+C:\Git\Repositories\WindowsMetroAppDemo\Demos\FileAccessDemo.UnitTests\obj\Debug\FileAccessDemo.UnitTests.csproj.GenerateResource.Cache
+C:\Git\Repositories\WindowsMetroAppDemo\Demos\FileAccessDemo.UnitTests\obj\Debug\Microsoft.VisualStudio.TestPlatform.UnitTestFramework.pri
+C:\Git\Repositories\WindowsMetroAppDemo\Demos\FileAccessDemo.UnitTests\obj\Debug\Microsoft.VisualStudio.TestPlatform.UnitTestFramework\LanguageQualifiers.txt
+C:\Git\Repositories\WindowsMetroAppDemo\Demos\FileAccessDemo.UnitTests\obj\Debug\Microsoft.VisualStudio.TestPlatform.Core.pri
+C:\Git\Repositories\WindowsMetroAppDemo\Demos\FileAccessDemo.UnitTests\obj\Debug\Microsoft.VisualStudio.TestPlatform.Core\LanguageQualifiers.txt
+C:\Git\Repositories\WindowsMetroAppDemo\Demos\FileAccessDemo.UnitTests\obj\Debug\Microsoft.VisualStudio.TestPlatform.Extensions.MSAppContainerAdapter.pri
+C:\Git\Repositories\WindowsMetroAppDemo\Demos\FileAccessDemo.UnitTests\obj\Debug\Microsoft.VisualStudio.TestPlatform.Extensions.MSAppContainerAdapter\LanguageQualifiers.txt
+C:\Git\Repositories\WindowsMetroAppDemo\Demos\FileAccessDemo.UnitTests\obj\Debug\Microsoft.VisualStudio.TestPlatform.ObjectModel.pri
+C:\Git\Repositories\WindowsMetroAppDemo\Demos\FileAccessDemo.UnitTests\obj\Debug\Microsoft.VisualStudio.TestPlatform.ObjectModel\LanguageQualifiers.txt
+C:\Git\Repositories\WindowsMetroAppDemo\Demos\FileAccessDemo.UnitTests\obj\Debug\Microsoft.VisualStudio.TestPlatform.TestExecutor.Core.pri
+C:\Git\Repositories\WindowsMetroAppDemo\Demos\FileAccessDemo.UnitTests\obj\Debug\Microsoft.VisualStudio.TestPlatform.TestExecutor.Core\LanguageQualifiers.txt
+C:\Git\Repositories\WindowsMetroAppDemo\Demos\FileAccessDemo.UnitTests\obj\Debug\Microsoft.VisualStudio.TestPlatform.Utilities.pri
+C:\Git\Repositories\WindowsMetroAppDemo\Demos\FileAccessDemo.UnitTests\obj\Debug\Microsoft.VisualStudio.TestPlatform.Utilities\LanguageQualifiers.txt
+C:\Git\Repositories\WindowsMetroAppDemo\Demos\FileAccessDemo.UnitTests\obj\Debug\priconfig.xml.intermediate
+C:\Git\Repositories\WindowsMetroAppDemo\Demos\FileAccessDemo.UnitTests\obj\Debug\layout.resfiles.intermediate
+C:\Git\Repositories\WindowsMetroAppDemo\Demos\FileAccessDemo.UnitTests\obj\Debug\resources.resfiles.intermediate
+C:\Git\Repositories\WindowsMetroAppDemo\Demos\FileAccessDemo.UnitTests\obj\Debug\pri.resfiles.intermediate
+C:\Git\Repositories\WindowsMetroAppDemo\Demos\FileAccessDemo.UnitTests\obj\Debug\priconfig.xml
+C:\Git\Repositories\WindowsMetroAppDemo\Demos\FileAccessDemo.UnitTests\obj\Debug\layout.resfiles
+C:\Git\Repositories\WindowsMetroAppDemo\Demos\FileAccessDemo.UnitTests\obj\Debug\resources.resfiles
+C:\Git\Repositories\WindowsMetroAppDemo\Demos\FileAccessDemo.UnitTests\obj\Debug\pri.resfiles
+C:\Git\Repositories\WindowsMetroAppDemo\Demos\FileAccessDemo.UnitTests\obj\Debug\LanguageQualifiers.txt
+C:\Git\Repositories\WindowsMetroAppDemo\Demos\FileAccessDemo.UnitTests\obj\Debug\MoqRT.MetroStyle.pri.xml
+C:\Git\Repositories\WindowsMetroAppDemo\Demos\FileAccessDemo.UnitTests\obj\Debug\ProjectArchitectures.txt

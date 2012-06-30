@@ -1,0 +1,73 @@
+C:\Users\Raj\Desktop\FileAccessDemo\FileAccessDemo\bin\Debug\FileAccessDemo.exe
+C:\Users\Raj\Desktop\FileAccessDemo\FileAccessDemo\bin\Debug\FileAccessDemo.pdb
+C:\Users\Raj\Desktop\FileAccessDemo\FileAccessDemo\bin\Debug\resources.pri
+C:\Users\Raj\Desktop\FileAccessDemo\FileAccessDemo\bin\Debug\AppxManifest.xml
+C:\Users\Raj\Desktop\FileAccessDemo\FileAccessDemo\bin\Debug\FileAccessDemo.build.appxrecipe
+C:\Users\Raj\Desktop\FileAccessDemo\FileAccessDemo\obj\Debug\App.g.i.cs
+C:\Users\Raj\Desktop\FileAccessDemo\FileAccessDemo\obj\Debug\App.g.cs
+C:\Users\Raj\Desktop\FileAccessDemo\FileAccessDemo\obj\Debug\Common\StandardStyles.g.i.cs
+C:\Users\Raj\Desktop\FileAccessDemo\FileAccessDemo\obj\Debug\Common\StandardStyles.g.cs
+C:\Users\Raj\Desktop\FileAccessDemo\FileAccessDemo\obj\Debug\MainPage.g.i.cs
+C:\Users\Raj\Desktop\FileAccessDemo\FileAccessDemo\obj\Debug\MainPage.g.cs
+C:\Users\Raj\Desktop\FileAccessDemo\FileAccessDemo\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Raj\Desktop\FileAccessDemo\FileAccessDemo\obj\Debug\App.xaml
+C:\Users\Raj\Desktop\FileAccessDemo\FileAccessDemo\obj\Debug\Common\StandardStyles.xaml
+C:\Users\Raj\Desktop\FileAccessDemo\FileAccessDemo\obj\Debug\MainPage.xaml
+C:\Users\Raj\Desktop\FileAccessDemo\FileAccessDemo\obj\Debug\FileAccessDemo.exe
+C:\Users\Raj\Desktop\FileAccessDemo\FileAccessDemo\obj\Debug\FileAccessDemo.pdb
+C:\Users\Raj\Desktop\FileAccessDemo\FileAccessDemo\obj\Debug\priconfig.xml
+C:\Users\Raj\Desktop\FileAccessDemo\FileAccessDemo\obj\Debug\layout.resfiles
+C:\Users\Raj\Desktop\FileAccessDemo\FileAccessDemo\obj\Debug\resources.resfiles
+C:\Users\Raj\Desktop\FileAccessDemo\FileAccessDemo\obj\Debug\pri.resfiles
+C:\Users\Raj\Desktop\FileAccessDemo\FileAccessDemo\obj\Debug\LanguageQualifiers.txt
+C:\Users\Raj\Desktop\FileAccessDemo\FileAccessDemo\obj\Debug\ProjectArchitectures.txt
+C:\Users\Raj\Desktop\Unit Testing Metro Style Apps\Demos\FileAccessDemo\bin\Debug\FileAccessDemo.exe
+C:\Users\Raj\Desktop\Unit Testing Metro Style Apps\Demos\FileAccessDemo\bin\Debug\FileAccessDemo.pdb
+C:\Users\Raj\Desktop\Unit Testing Metro Style Apps\Demos\FileAccessDemo\bin\Debug\resources.pri
+C:\Users\Raj\Desktop\Unit Testing Metro Style Apps\Demos\FileAccessDemo\bin\Debug\AppxManifest.xml
+C:\Users\Raj\Desktop\Unit Testing Metro Style Apps\Demos\FileAccessDemo\bin\Debug\FileAccessDemo.build.appxrecipe
+C:\Users\Raj\Desktop\Unit Testing Metro Style Apps\Demos\FileAccessDemo\obj\Debug\App.g.i.cs
+C:\Users\Raj\Desktop\Unit Testing Metro Style Apps\Demos\FileAccessDemo\obj\Debug\App.g.cs
+C:\Users\Raj\Desktop\Unit Testing Metro Style Apps\Demos\FileAccessDemo\obj\Debug\Common\StandardStyles.g.i.cs
+C:\Users\Raj\Desktop\Unit Testing Metro Style Apps\Demos\FileAccessDemo\obj\Debug\Common\StandardStyles.g.cs
+C:\Users\Raj\Desktop\Unit Testing Metro Style Apps\Demos\FileAccessDemo\obj\Debug\MainPage.g.i.cs
+C:\Users\Raj\Desktop\Unit Testing Metro Style Apps\Demos\FileAccessDemo\obj\Debug\MainPage.g.cs
+C:\Users\Raj\Desktop\Unit Testing Metro Style Apps\Demos\FileAccessDemo\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Raj\Desktop\Unit Testing Metro Style Apps\Demos\FileAccessDemo\obj\Debug\App.xaml
+C:\Users\Raj\Desktop\Unit Testing Metro Style Apps\Demos\FileAccessDemo\obj\Debug\Common\StandardStyles.xaml
+C:\Users\Raj\Desktop\Unit Testing Metro Style Apps\Demos\FileAccessDemo\obj\Debug\MainPage.xaml
+C:\Users\Raj\Desktop\Unit Testing Metro Style Apps\Demos\FileAccessDemo\obj\Debug\FileAccessDemo.exe
+C:\Users\Raj\Desktop\Unit Testing Metro Style Apps\Demos\FileAccessDemo\obj\Debug\FileAccessDemo.pdb
+C:\Users\Raj\Desktop\Unit Testing Metro Style Apps\Demos\FileAccessDemo\obj\Debug\priconfig.xml
+C:\Users\Raj\Desktop\Unit Testing Metro Style Apps\Demos\FileAccessDemo\obj\Debug\layout.resfiles
+C:\Users\Raj\Desktop\Unit Testing Metro Style Apps\Demos\FileAccessDemo\obj\Debug\resources.resfiles
+C:\Users\Raj\Desktop\Unit Testing Metro Style Apps\Demos\FileAccessDemo\obj\Debug\pri.resfiles
+C:\Users\Raj\Desktop\Unit Testing Metro Style Apps\Demos\FileAccessDemo\obj\Debug\LanguageQualifiers.txt
+C:\Users\Raj\Desktop\Unit Testing Metro Style Apps\Demos\FileAccessDemo\obj\Debug\ProjectArchitectures.txt
+C:\Git\Repositories\WindowsMetroAppDemo\Demos\FileAccessDemo\bin\Debug\FileAccessDemo.exe
+C:\Git\Repositories\WindowsMetroAppDemo\Demos\FileAccessDemo\bin\Debug\FileAccessDemo.pdb
+C:\Git\Repositories\WindowsMetroAppDemo\Demos\FileAccessDemo\bin\Debug\resources.pri
+C:\Git\Repositories\WindowsMetroAppDemo\Demos\FileAccessDemo\bin\Debug\AppxManifest.xml
+C:\Git\Repositories\WindowsMetroAppDemo\Demos\FileAccessDemo\bin\Debug\FileAccessDemo.build.appxrecipe
+C:\Git\Repositories\WindowsMetroAppDemo\Demos\FileAccessDemo\obj\Debug\App.g.i.cs
+C:\Git\Repositories\WindowsMetroAppDemo\Demos\FileAccessDemo\obj\Debug\App.g.cs
+C:\Git\Repositories\WindowsMetroAppDemo\Demos\FileAccessDemo\obj\Debug\Common\StandardStyles.g.i.cs
+C:\Git\Repositories\WindowsMetroAppDemo\Demos\FileAccessDemo\obj\Debug\Common\StandardStyles.g.cs
+C:\Git\Repositories\WindowsMetroAppDemo\Demos\FileAccessDemo\obj\Debug\MainPage.g.i.cs
+C:\Git\Repositories\WindowsMetroAppDemo\Demos\FileAccessDemo\obj\Debug\MainPage.g.cs
+C:\Git\Repositories\WindowsMetroAppDemo\Demos\FileAccessDemo\obj\Debug\XamlTypeInfo.g.cs
+C:\Git\Repositories\WindowsMetroAppDemo\Demos\FileAccessDemo\obj\Debug\App.xaml
+C:\Git\Repositories\WindowsMetroAppDemo\Demos\FileAccessDemo\obj\Debug\Common\StandardStyles.xaml
+C:\Git\Repositories\WindowsMetroAppDemo\Demos\FileAccessDemo\obj\Debug\MainPage.xaml
+C:\Git\Repositories\WindowsMetroAppDemo\Demos\FileAccessDemo\obj\Debug\FileAccessDemo.exe
+C:\Git\Repositories\WindowsMetroAppDemo\Demos\FileAccessDemo\obj\Debug\FileAccessDemo.pdb
+C:\Git\Repositories\WindowsMetroAppDemo\Demos\FileAccessDemo\obj\Debug\priconfig.xml.intermediate
+C:\Git\Repositories\WindowsMetroAppDemo\Demos\FileAccessDemo\obj\Debug\layout.resfiles.intermediate
+C:\Git\Repositories\WindowsMetroAppDemo\Demos\FileAccessDemo\obj\Debug\resources.resfiles.intermediate
+C:\Git\Repositories\WindowsMetroAppDemo\Demos\FileAccessDemo\obj\Debug\pri.resfiles.intermediate
+C:\Git\Repositories\WindowsMetroAppDemo\Demos\FileAccessDemo\obj\Debug\priconfig.xml
+C:\Git\Repositories\WindowsMetroAppDemo\Demos\FileAccessDemo\obj\Debug\layout.resfiles
+C:\Git\Repositories\WindowsMetroAppDemo\Demos\FileAccessDemo\obj\Debug\resources.resfiles
+C:\Git\Repositories\WindowsMetroAppDemo\Demos\FileAccessDemo\obj\Debug\pri.resfiles
+C:\Git\Repositories\WindowsMetroAppDemo\Demos\FileAccessDemo\obj\Debug\LanguageQualifiers.txt
+C:\Git\Repositories\WindowsMetroAppDemo\Demos\FileAccessDemo\obj\Debug\ProjectArchitectures.txt
