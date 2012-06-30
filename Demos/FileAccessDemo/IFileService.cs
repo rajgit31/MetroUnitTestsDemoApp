@@ -11,6 +11,7 @@ namespace FileAccessDemo
     public interface IFileService
     {
         Task<IEnumerable<FileItem>> GetFilesAsync();
+        IEnumerable<FileItem> GetFiles();
         Task<string> GetFileContentAsyn(FileItem storageFile);
     }
 
@@ -41,6 +42,13 @@ namespace FileAccessDemo
             var storageFile = await folder.GetFileAsync(fileItem.Code);
 
             return await FileIO.ReadTextAsync(storageFile);
+        }
+
+
+        public IEnumerable<FileItem> GetFiles()
+        {
+            loggerService.Log("retrieving files");
+            return null;
         }
     }   
 }

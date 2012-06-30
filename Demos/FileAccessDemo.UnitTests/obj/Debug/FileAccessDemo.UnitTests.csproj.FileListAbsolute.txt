@@ -102,7 +102,6 @@ C:\Git\Repositories\WindowsMetroAppDemo\Demos\FileAccessDemo.UnitTests\bin\Debug
 C:\Git\Repositories\WindowsMetroAppDemo\Demos\FileAccessDemo.UnitTests\bin\Debug\FileAccessDemo.UnitTests.build.appxrecipe
 C:\Git\Repositories\WindowsMetroAppDemo\Demos\FileAccessDemo.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.UnitTestFramework.dll
 C:\Git\Repositories\WindowsMetroAppDemo\Demos\FileAccessDemo.UnitTests\bin\Debug\FileAccessDemo.exe
-C:\Git\Repositories\WindowsMetroAppDemo\Demos\FileAccessDemo.UnitTests\bin\Debug\MoqRT.Baked.dll
 C:\Git\Repositories\WindowsMetroAppDemo\Demos\FileAccessDemo.UnitTests\bin\Debug\MoqRT.MetroStyle.dll
 C:\Git\Repositories\WindowsMetroAppDemo\Demos\FileAccessDemo.UnitTests\bin\Debug\FileAccessDemo.pdb
 C:\Git\Repositories\WindowsMetroAppDemo\Demos\FileAccessDemo.UnitTests\bin\Debug\MoqRT.MetroStyle.pdb
@@ -143,3 +142,4 @@ C:\Git\Repositories\WindowsMetroAppDemo\Demos\FileAccessDemo.UnitTests\obj\Debug
 C:\Git\Repositories\WindowsMetroAppDemo\Demos\FileAccessDemo.UnitTests\obj\Debug\LanguageQualifiers.txt
 C:\Git\Repositories\WindowsMetroAppDemo\Demos\FileAccessDemo.UnitTests\obj\Debug\MoqRT.MetroStyle.pri.xml
 C:\Git\Repositories\WindowsMetroAppDemo\Demos\FileAccessDemo.UnitTests\obj\Debug\ProjectArchitectures.txt
+C:\Git\Repositories\WindowsMetroAppDemo\Demos\FileAccessDemo.UnitTests\bin\Debug\MoqRT.Baked.dll

@@ -32,7 +32,7 @@ namespace FileAccessDemo.UnitTests
         {
             //Arrange
             var sut = new FileService(new StubLoggerService());
-
+            ;
             //Act
             var result = await sut.GetFilesAsync();
 
@@ -50,6 +50,21 @@ namespace FileAccessDemo.UnitTests
 
             //Act
             var result = await sut.GetFilesAsync();
+
+            //Assert
+            loggerServiceMock.Verify(c => c.Log(It.IsAny<string>()), Times.Once());
+        }
+
+
+        [TestMethod]
+        public void testGetFilesAsync_VerifyLogMethodIsCalled()
+        {
+            //Arrange
+            var loggerServiceMock = new Mock<ILoggerService>();
+            var sut = new FileService(loggerServiceMock.Object);
+
+            //Act
+            var result = sut.GetFiles();
 
             //Assert
             loggerServiceMock.Verify(c => c.Log(It.IsAny<string>()), Times.Once());
@@ -116,6 +131,12 @@ namespace FileAccessDemo.UnitTests
         }
 
         public string GetFileContent()
+        {
+            throw new NotImplementedException();
+        }
+
+
+        public IEnumerable<FileItem> GetFiles()
         {
             throw new NotImplementedException();
         }

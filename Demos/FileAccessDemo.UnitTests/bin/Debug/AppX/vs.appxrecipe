@@ -16,21 +16,21 @@
     <AppXManifest Include="C:\Git\Repositories\WindowsMetroAppDemo\Demos\FileAccessDemo.UnitTests\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2012-06-27T21:09:28.313</Modified>
+      <Modified>2012-06-30T19:10:42.550</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Git\Repositories\WindowsMetroAppDemo\Demos\FileAccessDemo.UnitTests\bin\Debug\FileAccessDemo.UnitTests.dll">
       <PackagePath>FileAccessDemo.UnitTests.dll</PackagePath>
-      <Modified>2012-06-27T21:16:36.082</Modified>
+      <Modified>2012-06-30T19:11:42.841</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Git\Repositories\WindowsMetroAppDemo\Demos\FileAccessDemo.UnitTests\bin\Debug\FileAccessDemo.UnitTests.pdb">
       <PackagePath>FileAccessDemo.UnitTests.pdb</PackagePath>
-      <Modified>2012-06-27T21:16:36.054</Modified>
+      <Modified>2012-06-30T19:11:42.813</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Git\Repositories\WindowsMetroAppDemo\Demos\FileAccessDemo\bin\Debug\FileAccessDemo.pdb">
       <PackagePath>FileAccessDemo.pdb</PackagePath>
-      <Modified>2012-06-27T21:13:50.399</Modified>
+      <Modified>2012-06-30T19:11:42.504</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files (x86)\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\MSTestFramework\11.0\References\CommonConfiguration\neutral\Microsoft.VisualStudio.TestPlatform.UnitTestFramework.dll">
       <PackagePath>Microsoft.VisualStudio.TestPlatform.UnitTestFramework.dll</PackagePath>
@@ -38,7 +38,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Git\Repositories\WindowsMetroAppDemo\Demos\FileAccessDemo.UnitTests\bin\Baking\MoqRT.Baked.dll">
       <PackagePath>MoqRT.Baked.dll</PackagePath>
-      <Modified>2012-06-27T21:16:39.770</Modified>
+      <Modified>2012-06-30T19:08:13.275</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Git\Repositories\MoqRT\MoqRT.MetroStyle\bin\Debug\MoqRT.MetroStyle.dll">
       <PackagePath>MoqRT.MetroStyle.dll</PackagePath>
@@ -46,7 +46,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Git\Repositories\WindowsMetroAppDemo\Demos\FileAccessDemo\bin\Debug\FileAccessDemo.exe">
       <PackagePath>FileAccessDemo.exe</PackagePath>
-      <Modified>2012-06-27T21:13:50.429</Modified>
+      <Modified>2012-06-30T19:11:42.533</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Git\Repositories\MoqRT\MoqRT.MetroStyle\bin\Debug\MoqRT.MetroStyle.pdb">
       <PackagePath>MoqRT.MetroStyle.pdb</PackagePath>
